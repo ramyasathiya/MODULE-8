@@ -1,6 +1,8 @@
 ## Ex.No:1
 ## Ex.Name: check whether a tree is a Binary Search Tree or not and to traverse inorder
 ## Date:
+## Name : Ramya S
+## Register Number : 212222040130
 ## Aim:
 To Write a C++ function to check whether a tree is a Binary Search Tree or not and to traverse inorder.
 
